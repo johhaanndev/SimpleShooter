@@ -40,4 +40,7 @@ private:
 
 	UPROPERTY(EditAnywhere)
 	float MaxRange = 1000;
+
+	UPROPERTY(EditAnywhere)
+	float Damage = 10;
 };
